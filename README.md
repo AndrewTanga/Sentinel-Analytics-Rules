@@ -1,4 +1,3 @@
-[Sentinel-Analytics-Rules(KQL Alert Queries).json](https://github.com/AndrewTanga/Sentinel-Analytics-Rules/files/14750807/Sentinel-Analytics-Rules.KQL.Alert.Queries.json)
 
 # Sentinel-Analytics-Rules
 
